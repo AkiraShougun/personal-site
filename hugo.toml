@@ -12,3 +12,8 @@ theme = 'hugo-theme-stack'
         name = "About"
         url = "/about/"
         weight = 2
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
