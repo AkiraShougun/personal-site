@@ -4,6 +4,11 @@ draft = false
 title = 'About'
 +++
 
-I'm a math student with a particular interest in number theory. Especially automorphic forms and the Langlands program. I love diving into the deep, abstract side of math and exploring how different areas connect. I'm hoping to start a PhD in number theory sometime soon.
 
-When I'm not doing math, you'll probably find me at the piano, either playing or composing music. I also enjoy learning foreign languages and doing some programming on the side—basically anything that lets me explore patterns and structures in different ways.
+I'm a mathematics student at **University of Windsor**, mainly interested in **number theory**. My focus is on automorphic forms and the representation theory related to them. I’m especially drawn to how automorphic forms come up in a lot of places in mathematics. Especially their essential role in the Langlands program. 
+
+I also spend time on **recreational math**, exploring curious problems, patterns, and puzzles. I like finding intuitive ways to present these ideas and share them with a broader audience through blog posts, visual explanations, or small creative projects that make math feel playful and accessible.
+
+Outside of mathematics, I compose music and play the piano. I’m passionate about languages and currently speak four fluently, with an interest in learning more over time.
+
+I’m aiming to continue into graduate studies and research, with a long-term interest in both theoretical work and mathematical exposition.

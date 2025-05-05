@@ -13,6 +13,10 @@ theme = 'hugo-theme-stack'
         url = "/about/"
         weight = 2
 
+[params]
+  [[Params.Sidebar]]
+    avatar = "/images/image.png"
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'

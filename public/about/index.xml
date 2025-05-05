@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Abouts on AkiraShougun</title>
+        <link>http://localhost:1313/about/</link>
+        <description>Recent content in Abouts on AkiraShougun</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 24 Apr 2025 15:06:09 -0400</lastBuildDate><atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>http://localhost:1313/about/about/</link>
+        <pubDate>Thu, 24 Apr 2025 15:06:09 -0400</pubDate>
+        
+        <guid>http://localhost:1313/about/about/</guid>
+        <description>&lt;p&gt;I&amp;rsquo;m a math student with a particular interest in number theory. Especially automorphic forms and the Langlands program. I love diving into the deep, abstract side of math and exploring how different areas connect. I&amp;rsquo;m hoping to start a PhD in number theory sometime soon.&lt;/p&gt;
+&lt;p&gt;When I&amp;rsquo;m not doing math, you&amp;rsquo;ll probably find me at the piano, either playing or composing music. I also enjoy learning foreign languages and doing some programming on the side—basically anything that lets me explore patterns and structures in different ways.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

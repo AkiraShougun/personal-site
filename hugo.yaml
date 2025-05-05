@@ -1,0 +1,37 @@
+baseURL: "https://example.org/"
+languageCode: "en-us"
+title: "AkiraShougun"
+theme: "hugo-theme-stack"
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/about/"
+      weight: 2
+    - name: "Notes"
+      url: "/notes/"
+      weight: 3
+
+  social:
+        - identifier: github
+          name: GitHub
+          url: https://github.com/AkiraShougun
+          params:
+              icon: brand-github
+
+params:
+  sidebar:
+        emoji: ♾️
+        subtitle: Mathematician
+        avatar:
+          enabled: true
+          local: false
+          src: /img/modularform.png
+  
+
+caches:
+  images:
+    dir: ":cacheDir/images"
