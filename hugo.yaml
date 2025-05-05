@@ -1,4 +1,4 @@
-baseURL: "https://akirashougun.github.io/personal-site/"
+baseURL: "https://akirashougun.github.io"
 languageCode: "en-us"
 title: "AkiraShougun"
 theme: "hugo-theme-stack"
