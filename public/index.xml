@@ -2,16 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>AkiraShougun</title>
-        <link>http://localhost:1313/</link>
+        <link>http://localhost:1313/personal-site/</link>
         <description>Recent content on AkiraShougun</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 24 Apr 2025 15:06:09 -0400</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 04 May 2025 22:48:36 -0400</lastBuildDate><atom:link href="http://localhost:1313/personal-site/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Notes</title>
+        <link>http://localhost:1313/personal-site/notes/</link>
+        <pubDate>Sun, 04 May 2025 22:48:36 -0400</pubDate>
+        
+        <guid>http://localhost:1313/personal-site/notes/</guid>
+        <description>&lt;p&gt;To be coming.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>About</title>
-        <link>http://localhost:1313/about/</link>
+        <link>http://localhost:1313/personal-site/about/</link>
         <pubDate>Thu, 24 Apr 2025 15:06:09 -0400</pubDate>
         
-        <guid>http://localhost:1313/about/</guid>
+        <guid>http://localhost:1313/personal-site/about/</guid>
         <description>&lt;p&gt;I&amp;rsquo;m a mathematics student at &lt;strong&gt;University of Windsor&lt;/strong&gt;, mainly interested in &lt;strong&gt;number theory&lt;/strong&gt;. My focus is on automorphic forms and the representation theory related to them. I’m especially drawn to how automorphic forms come up in a lot of places in mathematics. Especially their essential role in the Langlands program.&lt;/p&gt;
 &lt;p&gt;I also spend time on &lt;strong&gt;recreational math&lt;/strong&gt;, exploring curious problems, patterns, and puzzles. I like finding intuitive ways to present these ideas and share them with a broader audience through blog posts, visual explanations, or small creative projects that make math feel playful and accessible.&lt;/p&gt;
 &lt;p&gt;Outside of mathematics, I compose music and play the piano. I’m passionate about languages and currently speak four fluently, with an interest in learning more over time.&lt;/p&gt;
@@ -20,10 +29,10 @@
         </item>
         <item>
         <title>First</title>
-        <link>http://localhost:1313/post/first/</link>
+        <link>http://localhost:1313/personal-site/post/first/</link>
         <pubDate>Thu, 24 Apr 2025 14:59:06 -0400</pubDate>
         
-        <guid>http://localhost:1313/post/first/</guid>
+        <guid>http://localhost:1313/personal-site/post/first/</guid>
         <description>&lt;p&gt;Hello&lt;/p&gt;
 </description>
         </item>
